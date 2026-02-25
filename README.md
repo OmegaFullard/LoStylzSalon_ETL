@@ -10,6 +10,9 @@
 LoStylzSalon ETL is a comprehensive data processing tool that efficiently handles employee data, customer information, and salon appointment data. Designed to transform CSV files into actionable analytics and reports, this project utilizes Python and SQL for extraction, transformation, and loading (ETL) processes.
 
 ## Features
+<img width="250" height="200" alt="ETLProcess" src="https://github.com/user-attachments/assets/a0edb30b-dc0b-41a1-964a-85f59a1a8612" />
+
+
 - **Data Extraction**: Imports employee, customer, and appointment information from CSV files.
 - **Data Transformation**: Cleans and transforms data for analytics.
 - **Report Generation**: Produces insightful analytics and reports for salon management.
