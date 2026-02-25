@@ -1,0 +1,6 @@
+appointment_id,appointment_start,appointment_end,duration_minutes,status,service_name,service_price,tip_amount,payment_method,customer_id,customer_name,employee_id,employee_name,
+A9001,2/20/2026 10:00,2/20/2026 11:30,90,Completed,Full Color,130,20,cash,C1001,Emma Wilson,1001,Ava Johnson,
+A9002,2/20/2026 12:00,2/20/2026 12:30,30,Completed,Beard Trim,35,8,card,C1002,Liam Garcia,1002,Noah Martinez,
+A9003,2/21/2026 9:30,2/21/2026 10:15,45,No Show,Haircut + Style,55,0,none,C1003,Sophia Anderson,1001,Ava Johnson,
+A9004,2/21/2026 13:00,2/21/2026 13:45,45,Completed,Manicure,45,10,card,C1004,James Thomas,1005,Olivia Davis,
+A9005,2/22/2026 15:00,2/22/2026 15:30,30,Cancelled,Consultation,0,0,none,C1005,Isabella Taylor,1003,Mia Lee,

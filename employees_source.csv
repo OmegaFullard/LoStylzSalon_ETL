@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,email,phone,role,hire_date,is_active,hourly_rate,commission_rate,specialty
+1001,Ava,Johnson,ava.johnson@lostylz.com,555-0101,Stylist,2022-03-14,yes,24.50,0.15,Color
+1002,Noah,Martinez,noah.martinez@lostylz.com,555-0102,Barber,2021-08-01,yes,22.00,0.10,Fades
+1003,Mia,Lee,mia.lee@lostylz.com,555-0103,Receptionist,2023-01-09,yes,18.00,0.00,Front Desk
+1004,Ethan,Brown,ethan.brown@lostylz.com,555-0104,Stylist,2020-11-22,no,25.00,0.18,Extensions
+1005,Olivia,Davis,olivia.davis@lostylz.com,555-0105,Nail Tech,2024-04-15,yes,20.00,0.12,Manicure

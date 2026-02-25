@@ -1,0 +1,6 @@
+customer_id,full_name,email,phone,joined_date,loyalty_points,marketing_opt_in,preferred_contact
+C1001,Emma Wilson,emma.wilson@email.com,(555) 201-1001,2023-05-12,120,Yes,email
+C1002,Liam Garcia,liam.garcia@email.com,(555) 201-1002,2022-09-03,80,No,sms
+C1003,Sophia Anderson,sophia.anderson@email.com,(555) 201-1003,2024-01-17,40,Yes,phone
+C1004,James Thomas,james.thomas@email.com,(555) 201-1004,2021-11-28,300,Yes,email
+C1005,Isabella Taylor,isabella.taylor@email.com,(555) 201-1005,2025-02-06,15,No,sms
